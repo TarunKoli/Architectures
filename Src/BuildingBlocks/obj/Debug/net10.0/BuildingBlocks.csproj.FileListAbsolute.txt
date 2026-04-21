@@ -1,0 +1,13 @@
+/Users/tarunkoli/Desktop/Tarun Koli/Architectures/Architectures/src/BuildingBlocks/obj/Debug/net10.0/BuildingBlocks.csproj.AssemblyReference.cache
+/Users/tarunkoli/Desktop/Tarun Koli/Architectures/Architectures/src/BuildingBlocks/obj/Debug/net10.0/BuildingBlocks.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tarunkoli/Desktop/Tarun Koli/Architectures/Architectures/src/BuildingBlocks/obj/Debug/net10.0/BuildingBlocks.AssemblyInfoInputs.cache
+/Users/tarunkoli/Desktop/Tarun Koli/Architectures/Architectures/src/BuildingBlocks/obj/Debug/net10.0/BuildingBlocks.AssemblyInfo.cs
+/Users/tarunkoli/Desktop/Tarun Koli/Architectures/Architectures/src/BuildingBlocks/obj/Debug/net10.0/BuildingBlocks.csproj.CoreCompileInputs.cache
+/Users/tarunkoli/Desktop/Tarun Koli/Architectures/Architectures/src/BuildingBlocks/obj/Debug/net10.0/BuildingBlocks.sourcelink.json
+/Users/tarunkoli/Desktop/Tarun Koli/Architectures/Architectures/src/BuildingBlocks/bin/Debug/net10.0/BuildingBlocks.deps.json
+/Users/tarunkoli/Desktop/Tarun Koli/Architectures/Architectures/src/BuildingBlocks/bin/Debug/net10.0/BuildingBlocks.dll
+/Users/tarunkoli/Desktop/Tarun Koli/Architectures/Architectures/src/BuildingBlocks/bin/Debug/net10.0/BuildingBlocks.pdb
+/Users/tarunkoli/Desktop/Tarun Koli/Architectures/Architectures/src/BuildingBlocks/obj/Debug/net10.0/BuildingBlocks.dll
+/Users/tarunkoli/Desktop/Tarun Koli/Architectures/Architectures/src/BuildingBlocks/obj/Debug/net10.0/refint/BuildingBlocks.dll
+/Users/tarunkoli/Desktop/Tarun Koli/Architectures/Architectures/src/BuildingBlocks/obj/Debug/net10.0/BuildingBlocks.pdb
+/Users/tarunkoli/Desktop/Tarun Koli/Architectures/Architectures/src/BuildingBlocks/obj/Debug/net10.0/ref/BuildingBlocks.dll

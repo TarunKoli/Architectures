@@ -1,17 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "3mvjNI+xc98=",
+  "dgSpecHash": "FTAq7kYFCMY=",
   "success": true,
-  "projectFilePath": "/Users/tarunkoli/Desktop/Tarun Koli/Architectures/Architectures/src/Services/Example/Example.csproj",
+  "projectFilePath": "/Users/tarunkoli/Desktop/Tarun Koli/Architectures/Architectures/src/BuildingBlocks/BuildingBlocks.csproj",
   "expectedPackageFiles": [
     "/Users/tarunkoli/.nuget/packages/mediatr/14.1.0/mediatr.14.1.0.nupkg.sha512",
     "/Users/tarunkoli/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
-    "/Users/tarunkoli/.nuget/packages/microsoft.aspnetcore.openapi/10.0.3/microsoft.aspnetcore.openapi.10.0.3.nupkg.sha512",
+    "/Users/tarunkoli/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/10.0.0/microsoft.extensions.dependencyinjection.abstractions.10.0.0.nupkg.sha512",
+    "/Users/tarunkoli/.nuget/packages/microsoft.extensions.logging.abstractions/10.0.0/microsoft.extensions.logging.abstractions.10.0.0.nupkg.sha512",
     "/Users/tarunkoli/.nuget/packages/microsoft.identitymodel.abstractions/8.14.0/microsoft.identitymodel.abstractions.8.14.0.nupkg.sha512",
     "/Users/tarunkoli/.nuget/packages/microsoft.identitymodel.jsonwebtokens/8.14.0/microsoft.identitymodel.jsonwebtokens.8.14.0.nupkg.sha512",
     "/Users/tarunkoli/.nuget/packages/microsoft.identitymodel.logging/8.14.0/microsoft.identitymodel.logging.8.14.0.nupkg.sha512",
-    "/Users/tarunkoli/.nuget/packages/microsoft.identitymodel.tokens/8.14.0/microsoft.identitymodel.tokens.8.14.0.nupkg.sha512",
-    "/Users/tarunkoli/.nuget/packages/microsoft.openapi/2.0.0/microsoft.openapi.2.0.0.nupkg.sha512"
+    "/Users/tarunkoli/.nuget/packages/microsoft.identitymodel.tokens/8.14.0/microsoft.identitymodel.tokens.8.14.0.nupkg.sha512"
   ],
   "logs": []
 }
