@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/tarunkoli/Desktop/Tarun Koli/Architectures/Architectures/src/Services/Example/Example.csproj": {}
+    "/Users/tarunkoli/Desktop/Tarun Koli/Architectures/Architectures/Src/Services/Example/Example.csproj": {}
   },
   "projects": {
-    "/Users/tarunkoli/Desktop/Tarun Koli/Architectures/Architectures/src/BuildingBlocks/BuildingBlocks.csproj": {
+    "/Users/tarunkoli/Desktop/Tarun Koli/Architectures/Architectures/Src/BuildingBlocks/BuildingBlocks.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/tarunkoli/Desktop/Tarun Koli/Architectures/Architectures/src/BuildingBlocks/BuildingBlocks.csproj",
+        "projectUniqueName": "/Users/tarunkoli/Desktop/Tarun Koli/Architectures/Architectures/Src/BuildingBlocks/BuildingBlocks.csproj",
         "projectName": "BuildingBlocks",
-        "projectPath": "/Users/tarunkoli/Desktop/Tarun Koli/Architectures/Architectures/src/BuildingBlocks/BuildingBlocks.csproj",
+        "projectPath": "/Users/tarunkoli/Desktop/Tarun Koli/Architectures/Architectures/Src/BuildingBlocks/BuildingBlocks.csproj",
         "packagesPath": "/Users/tarunkoli/.nuget/packages/",
-        "outputPath": "/Users/tarunkoli/Desktop/Tarun Koli/Architectures/Architectures/src/BuildingBlocks/obj/",
+        "outputPath": "/Users/tarunkoli/Desktop/Tarun Koli/Architectures/Architectures/Src/BuildingBlocks/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/tarunkoli/.nuget/NuGet/NuGet.Config"
@@ -44,6 +44,14 @@
         "net10.0": {
           "targetAlias": "net10.0",
           "dependencies": {
+            "Carter": {
+              "target": "Package",
+              "version": "[10.0.0, )"
+            },
+            "Mapster": {
+              "target": "Package",
+              "version": "[10.0.7, )"
+            },
             "MediatR": {
               "target": "Package",
               "version": "[14.1.0, )"
@@ -343,14 +351,14 @@
         }
       }
     },
-    "/Users/tarunkoli/Desktop/Tarun Koli/Architectures/Architectures/src/Services/Example/Example.csproj": {
+    "/Users/tarunkoli/Desktop/Tarun Koli/Architectures/Architectures/Src/Services/Example/Example.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/tarunkoli/Desktop/Tarun Koli/Architectures/Architectures/src/Services/Example/Example.csproj",
+        "projectUniqueName": "/Users/tarunkoli/Desktop/Tarun Koli/Architectures/Architectures/Src/Services/Example/Example.csproj",
         "projectName": "Example",
-        "projectPath": "/Users/tarunkoli/Desktop/Tarun Koli/Architectures/Architectures/src/Services/Example/Example.csproj",
+        "projectPath": "/Users/tarunkoli/Desktop/Tarun Koli/Architectures/Architectures/Src/Services/Example/Example.csproj",
         "packagesPath": "/Users/tarunkoli/.nuget/packages/",
-        "outputPath": "/Users/tarunkoli/Desktop/Tarun Koli/Architectures/Architectures/src/Services/Example/obj/",
+        "outputPath": "/Users/tarunkoli/Desktop/Tarun Koli/Architectures/Architectures/Src/Services/Example/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/tarunkoli/.nuget/NuGet/NuGet.Config"
@@ -365,8 +373,8 @@
           "net10.0": {
             "targetAlias": "net10.0",
             "projectReferences": {
-              "/Users/tarunkoli/Desktop/Tarun Koli/Architectures/Architectures/src/BuildingBlocks/BuildingBlocks.csproj": {
-                "projectPath": "/Users/tarunkoli/Desktop/Tarun Koli/Architectures/Architectures/src/BuildingBlocks/BuildingBlocks.csproj"
+              "/Users/tarunkoli/Desktop/Tarun Koli/Architectures/Architectures/Src/BuildingBlocks/BuildingBlocks.csproj": {
+                "projectPath": "/Users/tarunkoli/Desktop/Tarun Koli/Architectures/Architectures/Src/BuildingBlocks/BuildingBlocks.csproj"
               }
             }
           }
