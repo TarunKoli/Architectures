@@ -341,7 +341,6 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v10.0",
         "dependencies": {
-          "Carter": "10.0.0",
           "Mapster": "10.0.7",
           "MediatR": "14.1.0"
         },
@@ -1462,6 +1461,7 @@
   "projectFileDependencyGroups": {
     "net10.0": [
       "BuildingBlocks >= 1.0.0",
+      "Carter >= 10.0.0",
       "Microsoft.AspNetCore.OpenApi >= 10.0.3"
     ]
   },
@@ -1471,11 +1471,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/tarunkoli/Desktop/Tarun Koli/Architectures/Architectures/Src/Services/Example/Example.csproj",
+      "projectUniqueName": "/Users/tarunkoli/Desktop/Tarun Koli/Architectures/Architectures/src/Services/Example/Example.csproj",
       "projectName": "Example",
-      "projectPath": "/Users/tarunkoli/Desktop/Tarun Koli/Architectures/Architectures/Src/Services/Example/Example.csproj",
+      "projectPath": "/Users/tarunkoli/Desktop/Tarun Koli/Architectures/Architectures/src/Services/Example/Example.csproj",
       "packagesPath": "/Users/tarunkoli/.nuget/packages/",
-      "outputPath": "/Users/tarunkoli/Desktop/Tarun Koli/Architectures/Architectures/Src/Services/Example/obj/",
+      "outputPath": "/Users/tarunkoli/Desktop/Tarun Koli/Architectures/Architectures/src/Services/Example/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/tarunkoli/.nuget/NuGet/NuGet.Config"
@@ -1490,8 +1490,8 @@
         "net10.0": {
           "targetAlias": "net10.0",
           "projectReferences": {
-            "/Users/tarunkoli/Desktop/Tarun Koli/Architectures/Architectures/Src/BuildingBlocks/BuildingBlocks.csproj": {
-              "projectPath": "/Users/tarunkoli/Desktop/Tarun Koli/Architectures/Architectures/Src/BuildingBlocks/BuildingBlocks.csproj"
+            "/Users/tarunkoli/Desktop/Tarun Koli/Architectures/Architectures/src/BuildingBlocks/BuildingBlocks.csproj": {
+              "projectPath": "/Users/tarunkoli/Desktop/Tarun Koli/Architectures/Architectures/src/BuildingBlocks/BuildingBlocks.csproj"
             }
           }
         }
@@ -1512,6 +1512,10 @@
       "net10.0": {
         "targetAlias": "net10.0",
         "dependencies": {
+          "Carter": {
+            "target": "Package",
+            "version": "[10.0.0, )"
+          },
           "Microsoft.AspNetCore.OpenApi": {
             "target": "Package",
             "version": "[10.0.3, )"

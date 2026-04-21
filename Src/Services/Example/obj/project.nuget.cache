@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NkV3xnbwAaE=",
+  "dgSpecHash": "UIwz4T1ip/A=",
   "success": true,
-  "projectFilePath": "/Users/tarunkoli/Desktop/Tarun Koli/Architectures/Architectures/Src/Services/Example/Example.csproj",
+  "projectFilePath": "/Users/tarunkoli/Desktop/Tarun Koli/Architectures/Architectures/src/Services/Example/Example.csproj",
   "expectedPackageFiles": [
     "/Users/tarunkoli/.nuget/packages/carter/10.0.0/carter.10.0.0.nupkg.sha512",
     "/Users/tarunkoli/.nuget/packages/carter.analyzers/10.0.0/carter.analyzers.10.0.0.nupkg.sha512",
